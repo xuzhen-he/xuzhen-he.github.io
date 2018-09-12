@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xuzhen He | Computational Geomechanics"
 title_separator          : "-"
 name                     : &name "Xuzhen He (何旭珍)"
-description              : &description " "
+description              : &description "An enginner in computational geomechanics"
 url                      : https://xuzhen-he.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuzhen-he/xuzhen-he.github.io"
@@ -85,7 +85,7 @@ author:
   location         : "BOKU, Vienna"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : 
+  email            : "hexuzhen@outlook.com"
   uri              :
   bitbucket        :
   codepen          :
