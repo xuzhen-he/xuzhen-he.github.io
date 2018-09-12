@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xuzhen He | Computational Geomechanics"
+title                    : "Xuzhen He (何旭珍) | Computational Geomechanics"
 title_separator          : "-"
 name                     : &name "Xuzhen He (何旭珍)"
 description              : &description "An enginner in computational geomechanics"
