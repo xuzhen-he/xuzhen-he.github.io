@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xuzhen He / Site Title"
+title                    : "Xuzhen He | Computational Geomechanics"
 title_separator          : "-"
 name                     : &name "Xuzhen He"
-description              : &description "personal description"
+description              : &description " "
 url                      : https://xuzhen-he.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuzhen-he/xuzhen-he.github.io"
@@ -79,10 +79,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Xuzhen He"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "BOKU, Vienna"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -93,13 +93,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "githut.com/xuzhen-he"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-5336-3663"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
