@@ -18,4 +18,6 @@ Education
 Work experience
 ======
 * Post-doc, Institute of Geotechnical Engineering, BOKU, Vienna, 2017 - date 
+
+[Download the deailted CV here](http://academicpages.github.io/files/cv.pdf)
  
