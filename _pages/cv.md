@@ -20,5 +20,6 @@ Work experience
 * Post-doc, Institute of Geotechnical Engineering, BOKU, Vienna, 2017 - date 
 
 <p>&nbsp;</p>
-[Download the deailted CV here](http://xuzhen-he.github.io/files/cv.pdf)
+
+Download the deailted [CV](http://xuzhen-he.github.io/files/cv.pdf) here
  
