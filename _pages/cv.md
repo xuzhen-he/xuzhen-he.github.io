@@ -22,5 +22,5 @@ Work experience
 
 <p>&nbsp;</p>
 
-Download the deailted [CV](http://xuzhen-he.github.io/files/cv.pdf) here
+Check the deailted [CV](http://xuzhen-he.github.io/files/cv.pdf) here
  
