@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Post-doc, Institute of Geotechnical Engineering, BOKU, Vienna, 2017 - date 
-   visiting scholar, Georgia Tech, Atlanta, USA, Sep - Dec, 2018
+  * visiting scholar, Georgia Tech, Atlanta, USA, Sep - Dec, 2018
 
 <p>&nbsp;</p>
 
